@@ -1,0 +1,7 @@
+print ("how old are you?")
+input_age = input()
+days = int(input_age) * 365 * 5
+print ("this how many time you have farted in your life")
+print (days)
+while True:
+    pass
