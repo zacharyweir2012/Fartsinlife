@@ -1,1 +1,1 @@
-# Fartsinlife
+Age-Based Minimum Fart Counter v1.0.0Ever wondered about your absolute baseline contribution to global gas levels? This lightweight utility calculates the estimated ultra-conservative minimum number of times you've farted in your lifetime based on your current age.How It Works:While medical estimates put the average human output higher, this tool calculates a strict minimum baseline using 5 farts per day roughly 1,826 times per year Minimum Lifetime Farts Age times 365 times 5
